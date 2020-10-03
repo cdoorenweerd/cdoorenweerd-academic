@@ -5,7 +5,7 @@ authors:
 - Sebastian Sievert
 - Walter Rossi
 - Daniel Rubinoff
-author_notes:
+author_notes: ""
 date: "2020-07-01T00:00:00Z"
 doi: "https://doi.org/10.1002/ece3.6585"
 
