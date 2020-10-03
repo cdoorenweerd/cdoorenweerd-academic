@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "The paradoxical rarity of a fruit fly fungus attacking a broad range of hosts"
 authors:
 - admin
-- Robert Ford
+- Sebastian Sievert
+- Walter Rossi
+- Daniel Rubinoff
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2020-07-01T00:00:00Z"
+doi: "https://doi.org/10.1002/ece3.6585"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -22,10 +22,10 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Understanding the factors that determine the realized and potential distribution of a species requires knowledge of abiotic, physiological, limitations as well as ecological interactions. Fungi of the order Laboulbeniales specialize on arthropods and are typically thought to be highly specialized on a single species or closely related group of species. Because infections are almost exclusively transmitted through direct contact between the hosts, the host ecology, to a large extent, determines the dis- tribution and occurrence of the fungus. We examined ~20,000 fruit flies (Diptera: Dacinae) collected in Malaysia, Sulawesi, Australia, and the Solomon Islands between 2017 and 2019 for fungal infections and found 197 infected flies across eight dif- ferent Bactrocera species. Morphology and 1,363 bps of small subunit (18S) DNA sequences both support that the infections are from a single polyphagous fungal species Stigmatomyces dacinus—a known ectoparasite of these fruit flies. This leads to the question: why is S. dacinus rare, when its hosts are widespread and abundant? In addition, the hosts are all Bactrocera, a genus with ~480 species, but 37 Bactrocera species found sympatric with the hosts were never infected. Host-selection does not appear to be phylogenetically correlated. These results suggest a hidden complexity in how different, but closely related, host species vary in their susceptibility, which somehow limits the abundance and dispersal capability of the fungus."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Understanding the factors that determine the realized and potential distribution of a species requires knowledge of abiotic, physiological, limitations as well as ecological interactions."
 
 tags:
 - Source Themes
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.6585
 url_code: ''
 url_dataset: ''
 url_poster: ''
