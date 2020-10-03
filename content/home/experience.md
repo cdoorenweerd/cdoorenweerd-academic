@@ -21,19 +21,28 @@ date_format = "Jan 2006"
   title = "Junior Researcher"
   company = "University of Hawaii at Manoa"
   company_url = ""
-  location = "Hawaii"
+  location = "Honolulu, Hawaii"
   date_start = "2017-04-01"
   date_end = ""
   description = """Evolutionary research of fruit flies
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "PhD"
+  company = "University of Amsterdam"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "The Netherlands"
+  date_start = "2012-04-01"
+  date_end = "2016-08-31"
+  description = """Molecular phylogenetic research on the evolutionary diversification of leaf-mining moths"""
+
+[[experience]]
+  title = "Lab technician"
+  company = "Naturalis Biodiversity Center"
+  company_url = ""
+  location = "Leiden, The Netherlands"
+  date_start = "2010-04-01"
+  date_end = "2012-04-01"
+  description = """Molecular laboratory wet-work and project management"""
 
 +++
