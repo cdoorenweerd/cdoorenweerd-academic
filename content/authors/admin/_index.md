@@ -1,27 +1,26 @@
 ---
-title: Camiel Doorenweerd
 role: Junior Researcher Insect Systematics and Conservation
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: img_6298.jpg
+bio: My research interests include macro-evolution, speciation, plant-insect
+  interactions, bioinformatics and entomology
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - macro-evolution
+  - speciation
+  - plant-insect interactions
+  - bioinformatics
+  - entomology
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=97LLeawAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cdoorenweerd
 organizations:
-  - name: Stanford University
+  - name: University of Hawaii at Manoa
     url: ""
 education:
   courses:
@@ -41,9 +40,7 @@ user_groups:
   - Researchers
   - Visitors
 highlight_name: false
+title: Camiel Doorenweerd
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My current research focuses on understanding the evolutionary mechanisms that drive the diversification of a group of about one-thousand species of fruit flies (Diptera: Tephritidae) that are all morphologically remarkably homogeneous. Genetic work is at the basis of most projects, where we aim to find markers that distinguish pest species from non-pests, and unravel patterns of recent and historic introgression and hybridization by closely related species using genomics. The methods I have applied include genotype-by-sequencing (GBS), double-digest restriction enzyme association DNA sequencing (ddRAD), whole-genome-resequencing, highly multiplexed amplified sequencing (HiMAP), and all their associated bioinformatic pipelines. We have successfully applied this data to establish the phylogenetic relationship of over 300 species, map genetic markers across the genomes, estimate levels of introgression amongst confused pest species along a reference genome and establish diagnostic markers to quickly and reliably identify pest species. Potential pest specimens are regularly intercepted in fruits at ports or captured during biosecurity surveillance programs in California and Florida, and have potentially devastating effects to their agriculture.
