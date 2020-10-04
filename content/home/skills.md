@@ -18,14 +18,26 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+  description = "70%"
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = "10%"  
-  
+
+[[feature]]
+  icon = "elephant"
+  icon_pack = "fas"
+  name = "PostgreSQL"
+  description = "80%"
+
+[[feature]]
+  icon = "Microscope"
+  icon_pack = "fas"
+  name = "Microscope"
+  description = "80%"
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
