@@ -6,9 +6,9 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
-title = "Most cited"
+title = "Featured Publication"
 subtitle = ""
 
 [content]
@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"

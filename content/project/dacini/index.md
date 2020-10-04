@@ -1,21 +1,22 @@
 ---
-title: Dacini fruit flies
-summary: Systematics and evolution of pest fruit flies.
+title: Internal Project
+summary: An example of using the in-built project page.
 tags:
-- Phylogenetics
-- Phylogenomics
-- Biogeography
-- Taxonomy
+- Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: A fruit fly
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -26,8 +27,9 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: example
 ---
+
 Introduction
 
 Fruit flies in the subfamily Dacinae (Diptera: Tephritidae) are a diverse group which includes both important agricultural pests and a significant number of non-pest species. Species belong to three main genera, Bactrocera (461 species), Zeugodacus (196 species) and Dacus (273 species) and have a center of diversity in Papua New Guinea.  All representatives are difficult to identify through morphology due to being wasp mimics, which creates morphological overlap between distant species. By understanding the morphology, biodiversity and evolutionary history of this subfamily across their range we can clear-up taxonomy, discover new species and possibly predict the likelihood of pest potential for each species. 

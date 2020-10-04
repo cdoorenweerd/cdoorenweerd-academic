@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -26,17 +26,17 @@ subtitle = ""
   name = "R"
   description = "10%"  
 
-[[feature]]
-  icon = "elephant"
-  icon_pack = "fas"
-  name = "PostgreSQL"
-  description = "80%"
+#[[feature]]
+#  icon = "elephant"
+#  icon_pack = "fas"
+#  name = "PostgreSQL"
+#  description = "80%"
 
-[[feature]]
-  icon = "Microscope"
-  icon_pack = "fas"
-  name = "Microscope"
-  description = "80%"
+#[[feature]]
+#  icon = "Microscope"
+#  icon_pack = "fas"
+#  name = "Microscope"
+#  description = "80%"
 
 [[feature]]
   icon = "camera-retro"
