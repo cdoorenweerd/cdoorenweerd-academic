@@ -19,7 +19,7 @@
   weight = 20
 
 [[main]]
-  name = "Highlights"
+  name = "Featured"
   url = "#featured"
   weight = 30
 
