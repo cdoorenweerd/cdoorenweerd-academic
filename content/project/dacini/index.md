@@ -1,14 +1,15 @@
 ---
-title: Dacini Fruit flies
-summary: Dacini fruit fly systematics and evolution.
-tags: ""
+title: Dacini
+summary: Fruit fly systematics and evolution.
+tags:
+- Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by Michael San Jose
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
