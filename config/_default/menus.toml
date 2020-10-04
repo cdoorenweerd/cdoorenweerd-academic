@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Most cited"
+  name = "Featured"
   url = "#featured"
   weight = 20
 
