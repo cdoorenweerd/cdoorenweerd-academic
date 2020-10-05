@@ -1,6 +1,6 @@
 ---
-title: Leafmniners
-summary: An example of using the in-built project page.
+title: Leafmining moths
+summary: Evolutionary diversfication of leafmining moths in relation to their hosts
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by C Doorenweerd
   focal_point: Smart
 
 links:
