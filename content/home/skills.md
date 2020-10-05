@@ -26,11 +26,11 @@ subtitle = ""
   name = "R"
   description = "10%"  
 
-#[[feature]]
-#  icon = "elephant"
-#  icon_pack = "fas"
-#  name = "PostgreSQL"
-#  description = "80%"
+[[feature]]
+  icon = "postgresql"
+  icon_pack = "custom"
+  name = "PostgreSQL"
+  description = "80%"
 
 #[[feature]]
 #  icon = "Microscope"

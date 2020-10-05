@@ -1,5 +1,5 @@
 ---
-title: "Highly variable COI haplotype diversity between three species of invasive pest fruit fly species reflects remarkable incongruent demographic histories"
+title: "Highly variable COI haplotype diversity between three species of invasive pest fruit fly species reflects remarkably incongruent demographic histories"
 authors:
 - admin
 - Michael San Jose

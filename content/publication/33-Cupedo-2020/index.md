@@ -1,5 +1,5 @@
 ---
-title: "The intraspecific structure of the Yellow-spooted ringlet Erebia manto (Denis & Schiffermüller, [1775]), with special reference to the bubastis group: an integration of morphology, allozyme and mtDNA data (Lepidoptera, Nymphalidae, Satyrinae)"
+title: "The intraspecific structure of the Yellow-spotted ringlet Erebia manto (Denis & Schiffermüller, [1775]), with special reference to the bubastis group: an integration of morphology, allozyme and mtDNA data (Lepidoptera, Nymphalidae, Satyrinae)"
 authors:
 - Frans Cupedo
 - admin
