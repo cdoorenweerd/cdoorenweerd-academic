@@ -4,7 +4,7 @@ authors:
 - Frans Cupedo
 - admin
 author_notes: ""
-date: "2020-07-01T00:00:00Z"
+date: "2020-07-03T00:00:00Z"
 doi: "https://doi.org/10.3897/nl.43.47409"
 
 # Schedule page publish date (NOT publication's date).
@@ -44,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [C Doorenweerd](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -62,13 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /alert %}}
-
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
