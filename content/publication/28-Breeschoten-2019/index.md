@@ -1,13 +1,13 @@
 ---
 title: "New leaf-mine fossil from the Geumgwangdong Formation, Pohang Basin, South Korea, associates pygmy moths (Lepidoptera, Nepticulidae) with beech trees (Fagaceae, Fagus) in the Miocene"
 authors:
-- Jae-Cheon Sohn
+- Thijmen Breeschoten
 - admin
-- Kye Soo Nam
-- Sei-Woong Choi
+- Sergei Tasarov
+- Alfried P. Vogler
 author_notes: ""
 date: "2019-01-01T00:00:00Z"
-doi: "https://doi.org/10.1017/jpa.2018.83"
+doi: "https://doi.org/10.1016/j.ympev.2019.01.010"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Paleontology"
+publication: "Molecular Phylogenetics and Evolution"
 publication_short: ""
 
-abstract: "A nepticulid leaf-mine ichnofossil, Stigmellites janggi Sohn and Nam, n. ichnosp., is described on the basis of a fossil leaf of Fagus from the early Miocene Geumgwangdong Formation in Pohang Basin. This mine trace is characterized by a linear-blotch type with a clear centric frass trail composed of closely and randomly dispersed pellets filling the mine width in the early stage. We found traces of a possible egg case and an exit slit from the leaf. These features are most consistent with those produced by members of Nepticulidae. Our record demonstrates for the first time the trophic association of Nepticulidae with Fagus in the Miocene and suggests the persistence of a long-term association between the insect family and the plant genus from the Miocene to the present. Other Nepticulidae leaf mines in the Miocene and leaf-mine fossils from the Geumgwangdong Formation are briefly reviewed."
+abstract: "Zunino and Halffter (2019) criticized our paper (Breeschoten et al., 2016) on phylogenetics and biogeography of the dung beetle genus Onthophagus for failing to cite ten of their co-authored papers related to this topic. They point out that “from both scientific and ethical stand- points they [the authors of Breeschoten et al. (2016)] cannot ignore” these papers, as they already established similar biogeographical and evolutionary conclusions. We did not intend to disregard the authors’ scientific findings but, as presented in these papers, we found it difficult to align their phylogenetic hypotheses with our work."
 
 # Summary. An optional shortened abstract.
-summary: "A nepticulid leaf-mine ichnofossil, Stigmellites janggi Sohn and Nam, n. ichnosp., is described on the basis of a fossil leaf of Fagus from the early Miocene Geumgwangdong Formation in Pohang Basin."
+summary: "Zunino and Halffter (2019) criticized our paper (Breeschoten et al., 2016) on phylogenetics and biogeography of the dung beetle genus Onthophagus for failing to cite ten of their co-authored papers related to this topic."
 
 tags:
 - Source Themes
