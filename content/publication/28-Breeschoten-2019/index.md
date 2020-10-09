@@ -1,5 +1,5 @@
 ---
-title: "New leaf-mine fossil from the Geumgwangdong Formation, Pohang Basin, South Korea, associates pygmy moths (Lepidoptera, Nepticulidae) with beech trees (Fagaceae, Fagus) in the Miocene"
+title: "Incorporating older literature into genomic studies: A response to Zunino & Halffter"
 authors:
 - Thijmen Breeschoten
 - admin
