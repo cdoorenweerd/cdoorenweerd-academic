@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "dna"
+  icon_pack = "custom"
+  name = "DNA"
+  description = "90%"
+  
+  [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
