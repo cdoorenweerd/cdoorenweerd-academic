@@ -1,5 +1,5 @@
 ---
-title: Dacini
+title: Dacini fruit flies
 summary: Fruit fly systematics and evolution.
 tags:
 - Deep Learning
@@ -32,7 +32,7 @@ slides: example
 
 Introduction
 
-Fruit flies in the subfamily Dacinae (Diptera: Tephritidae) are a diverse group which includes both important agricultural pests and a significant number of non-pest species. Species belong to three main genera, Bactrocera (461 species), Zeugodacus (196 species) and Dacus (273 species) and have a center of diversity in Papua New Guinea.  All representatives are difficult to identify through morphology due to being wasp mimics, which creates morphological overlap between distant species. By understanding the morphology, biodiversity and evolutionary history of this subfamily across their range we can clear-up taxonomy, discover new species and possibly predict the likelihood of pest potential for each species. 
+Fruit flies in the subfamily Dacinae (Diptera: Tephritidae) are a diverse group which includes both important agricultural pests and a significant number of non-pest species. Species belong to three main genera, Bactrocera (461 species), Zeugodacus (196 species) and Dacus (273 species) and are all in Old World tropics. All representatives are difficult to identify through morphology due to being wasp mimics, which creates morphological overlap between distant species. By understanding the morphology, biodiversity and evolutionary history of this subfamily across their range we can clear-up taxonomy, discover new species and possibly predict the likelihood of pest potential for each species. 
 
 Goals and Objectives 
 
