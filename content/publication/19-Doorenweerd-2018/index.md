@@ -1,5 +1,5 @@
 ---
-title: "A preliminary molecular phylogeny of shield-bearer moths (Lepidoptera: Adeloidea: Heliozelidae) highlights rich undescribed diversity"
+title: "A global checklist of the 932 fruit fly species in the tribe Dacini (Diptera, Tephritidae)"
 authors:
 - admin
 - Luc Leblanc
