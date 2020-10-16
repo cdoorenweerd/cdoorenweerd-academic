@@ -1,6 +1,6 @@
 ---
 title: Leafmining moths
-summary: Evolutionary diversfication of leafmining moths in relation to their hosts
+summary: Evolutionary diversfication of leafmining moths in relation to their host plants
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
