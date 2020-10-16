@@ -2,21 +2,19 @@
 title: Dacini fruit flies
 summary: Fruit fly systematics and evolution.
 tags:
-- Deep Learning
+- Taxonomy
+- Phylogenetics
+- Phylogenomics
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by M San Jose
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,6 +27,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+My research on Dacini fruit flies began in 2017, when I started working at the University of Hawaii as a Junior Researcher. There is a long legacy of Dacini systematic research at the University of Hawaii, with early work in the mid to late 20th century by the late Dr. Elmo Hardy, and more recently by Dr Luc Leblanc (currently @ U Idaho). My position and research is funded through Plant Protection Act agreements with the United States Department of Agriculture. 
 
 Introduction
 
