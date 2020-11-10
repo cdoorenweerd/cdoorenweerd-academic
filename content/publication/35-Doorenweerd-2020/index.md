@@ -1,13 +1,14 @@
 ---
-title: "The paradoxical rarity of a fruit fly fungus attacking a broad range of hosts"
+title: "Highly variable COI haplotype diversity between three species of invasive pest fruit fly species reflects remarkably incongruent demographic histories"
 authors:
 - admin
-- Sebastian Sievert
-- Walter Rossi
+- Michael San Jose
+- Norman Barr
+- Luc Leblanc
 - Daniel Rubinoff
 author_notes: ""
-date: "2020-07-01T00:00:00Z"
-doi: "https://doi.org/10.1002/ece3.6585"
+date: "2020-04-01T00:00:00Z"
+doi: "https://doi.org/10.1038/s41598-020-63973-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,22 +20,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Ecology and Evolution"
+publication: "Scientific Reports"
 publication_short: ""
 
-abstract: "Understanding the factors that determine the realized and potential distribution of a species requires knowledge of abiotic, physiological, limitations as well as ecological interactions. Fungi of the order Laboulbeniales specialize on arthropods and are typically thought to be highly specialized on a single species or closely related group of species. Because infections are almost exclusively transmitted through direct contact between the hosts, the host ecology, to a large extent, determines the dis- tribution and occurrence of the fungus. We examined ~20,000 fruit flies (Diptera: Dacinae) collected in Malaysia, Sulawesi, Australia, and the Solomon Islands between 2017 and 2019 for fungal infections and found 197 infected flies across eight dif- ferent Bactrocera species. Morphology and 1,363 bps of small subunit (18S) DNA sequences both support that the infections are from a single polyphagous fungal species Stigmatomyces dacinus—a known ectoparasite of these fruit flies. This leads to the question: why is S. dacinus rare, when its hosts are widespread and abundant? In addition, the hosts are all Bactrocera, a genus with ~480 species, but 37 Bactrocera species found sympatric with the hosts were never infected. Host-selection does not appear to be phylogenetically correlated. These results suggest a hidden complexity in how different, but closely related, host species vary in their susceptibility, which somehow limits the abundance and dispersal capability of the fungus."
+abstract: "Distance decay principles predict that species with larger geographic ranges would have greater intraspecific genetic diversity than more restricted species. However, invasive pest species may not follow this prediction, with confounding implications for tracking phenomena including original ranges, invasion pathways and source populations. We sequenced an 815 base-pair section of the COI gene for 441 specimens of Bactrocera correcta, 214 B. zonata and 372 Zeugodacus cucurbitae; three invasive pest fruit fly species with overlapping hostplants. For each species, we explored how many individuals would need to be included in a study to sample the majority of their haplotype diversity. We also tested for phylogeographic signal and used demographic estimators as a proxy for invasion potency. We find contrasting patterns of haplotype diversity amongst the species, where B. zonata has the highest diversity but most haplotypes were represented by singletons; B. correcta has ~7 dominant haplotypes more evenly distributed; Z. cucurbitae has a single dominant haplotype with closely related singletons in a ‘star-shape’ surrounding it. We discuss how these differing patterns relate to their invasion histories. None of the species showed meaningful phylogeographic patterns, possibly due to gene-flow between areas across their distributions, obscuring or eliminating substructure."
 
 # Summary. An optional shortened abstract.
-summary: "Understanding the factors that determine the realized and potential distribution of a species requires knowledge of abiotic, physiological, limitations as well as ecological interactions."
+summary: "Distance decay principles predict that species with larger geographic ranges would have greater intraspecific genetic diversity than more restricted species. However, invasive pest species may not follow this prediction"
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.6585
+url_pdf: https://www.nature.com/articles/s41598-020-63973-x.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,8 +47,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [S Sievert]()'
-  focal_point: ""
+  caption: 'Image credit: [Camiel Doorenweerd]()'
+  focal_point: Top
   preview_only: false
 
 # Associated Projects (optional).

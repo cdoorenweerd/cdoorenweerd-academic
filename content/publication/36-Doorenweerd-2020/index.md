@@ -1,12 +1,13 @@
 ---
-title: "The Dacini fruit fly fauna of Sulawesi fits Lydekker’s line but also supports Wallacea as a biogeographic region (Diptera, Tephritidae)"
+title: "The paradoxical rarity of a fruit fly fungus attacking a broad range of hosts"
 authors:
 - admin
-- Arni Ekayanti
+- Sebastian Sievert
+- Walter Rossi
 - Daniel Rubinoff
 author_notes: ""
-date: "2020-10-01T00:00:00Z"
-doi: "https://doi.org/10.3897/zookeys.973.55327"
+date: "2020-07-01T00:00:00Z"
+doi: "https://doi.org/10.1002/ece3.6585"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,22 +19,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ZooKeys"
+publication: "Ecology and Evolution"
 publication_short: ""
 
-abstract: "Although there is scientific consensus on most of the major biogeographic regions in the world, the demarcation of the area connecting Southeast Asia with Australia and Oceania remains debated. Two candidate boundaries potentially explain faunistic diversity patterns in the regions: Lydekker’s and Wallace’s lines. The islands in between both ‘lines’ are jointly termed Wallacea, with Sulawesi as the largest landmass. We surveyed Dacini fruit flies (Tephritidae: Dacinae) in Sulawesi between 2016 and 2019 using traps baited with male lures, resulting in 4,517 collected flies. We identified all specimens to species level, which adds 15 new species records to the island, bringing the total number of Dacini species in Sulawesi to 83. The biogeographic affinity of species in the updated checklist reveals a strong connection with former ‘Sunda’ (41% of species); validating Lydekker’s line, but also a high level of endemism (47% of species), confirming the uniqueness of Wallacea as a biogeographic region. We further describe a new species, Bactrocera (Bactrocera) niogreta Doorenweerd, sp. nov. and discuss the taxonomy of several interesting species."
+abstract: "Understanding the factors that determine the realized and potential distribution of a species requires knowledge of abiotic, physiological, limitations as well as ecological interactions. Fungi of the order Laboulbeniales specialize on arthropods and are typically thought to be highly specialized on a single species or closely related group of species. Because infections are almost exclusively transmitted through direct contact between the hosts, the host ecology, to a large extent, determines the dis- tribution and occurrence of the fungus. We examined ~20,000 fruit flies (Diptera: Dacinae) collected in Malaysia, Sulawesi, Australia, and the Solomon Islands between 2017 and 2019 for fungal infections and found 197 infected flies across eight dif- ferent Bactrocera species. Morphology and 1,363 bps of small subunit (18S) DNA sequences both support that the infections are from a single polyphagous fungal species Stigmatomyces dacinus—a known ectoparasite of these fruit flies. This leads to the question: why is S. dacinus rare, when its hosts are widespread and abundant? In addition, the hosts are all Bactrocera, a genus with ~480 species, but 37 Bactrocera species found sympatric with the hosts were never infected. Host-selection does not appear to be phylogenetically correlated. These results suggest a hidden complexity in how different, but closely related, host species vary in their susceptibility, which somehow limits the abundance and dispersal capability of the fungus."
 
 # Summary. An optional shortened abstract.
-summary: "The biogeographic affinity of species in the updated checklist reveals a strong connection with former ‘Sunda’ (41% of species); validating Lydekker’s line, but also a high level of endemism (47% of species), confirming the uniqueness of Wallacea as a biogeographic region."
+summary: "Understanding the factors that determine the realized and potential distribution of a species requires knowledge of abiotic, physiological, limitations as well as ecological interactions."
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://zookeys.pensoft.net/article/55327/download/pdf/460073
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.6585
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [C Doorenweerd](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [S Sievert]()'
   focal_point: ""
   preview_only: false
 
@@ -63,3 +64,13 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
+
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
+
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
