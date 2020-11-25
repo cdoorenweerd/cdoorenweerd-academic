@@ -1,6 +1,6 @@
 ---
-title: Dacini fruit flies
-summary: Fruit fly systematics and evolution.
+title: Orchid pollinating fruit flies
+summary: Systematics, evolution and pest recognition
 tags:
 - Taxonomy
 - Phylogenetics

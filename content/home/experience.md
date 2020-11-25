@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Honolulu, Hawaii"
   date_start = "2017-04-01"
   date_end = ""
-  description = """Evolutionary research of fruit flies
+  description = """Systematics and pest recognition of orchid pollinating fruit flies
   """
 
 [[experience]]

@@ -33,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://zookeys.pensoft.net/article/55327/download/pdf/460073
+url_pdf: 'https://zookeys.pensoft.net/article/55327/download/pdf/460073'
 url_code: ''
 url_dataset: ''
 url_poster: ''
