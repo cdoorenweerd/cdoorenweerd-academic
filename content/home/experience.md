@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "The Netherlands"
   date_start = "2012-04-01"
   date_end = "2016-08-31"
-  description = """Molecular phylogenetic research on the evolutionary diversification of leaf-mining moths"""
+  description = """The evolutionary diversification of leaf-mining moths"""
 
 [[experience]]
   title = "Lab technician"
