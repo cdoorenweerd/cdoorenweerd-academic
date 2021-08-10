@@ -1,5 +1,5 @@
 ---
-title: "Phylogeography of an endemic California silkmoth genus suggests the importance of an underhalded central California province in generating regional endemic biodiversity"
+title: "Phylogeography of an endemic California silkmoth genus suggests the importance of an unheralded central California province in generating regional endemic biodiversity"
 authors:
 - Daniel Rubinoff
 - admin
