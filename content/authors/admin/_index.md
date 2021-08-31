@@ -43,8 +43,6 @@ highlight_name: false
 title: Camiel Doorenweerd
 email: ""
 ---
-My research focuses on understanding the mechanisms that drive the evolutionary diversification of insects in relation to their environment.
+Evolution is always and everywhere. Although it is often talked about as if it were something of the past, evolution is continuously ongoing in all life and my research focuses on how this extraordinary force has led to the diversity of species we find on the planet - and what that means for the future.
 
-Genetic (DNA) work is at the basis of most projects, where we aim to find and use markers that distinguish pest species from non-pests, find patterns of insect-plant relationships or unravel recent and historic hybridization events. Methods range from field collecting, morphological study to Sanger sequencing, genotype-by-sequencing (GBS), double-digest restriction enzyme association DNA sequencing (ddRAD), whole-genome-resequencing (WGS), highly multiplexed amplified sequencing (HiMAP), and all their associated bioinformatic pipelines.
-
-Although evolution is often talked about as if it was something of the past, it is in fact everywhere and always ongoing. We are finding more and more evidence for highly dynamic ecosystems on earth, with species migrating, range expansions and contractions, and adaption, with all the associated ecological consequences. Change is the norm. Especially in pest management, and delicate island ecosystems such as in Hawaii, we find that balances can shift in a matter of decades, sometimes with extinctions as a consequence. My research aims to build a basis to understand the underlying processes, ultimately allowing sustainable landscape management towards a biodiverse future.
+To reconstruct and understand the tree of life, my research uses DNA data derived from targeted markers, random single-nucleotide-polymorphisms or whole genomes to understand the relationships between species and how different morphologies and ecological adaptations evolved through time. This data can then also be applied for practical purposes, such as pest recognition for agriculture.

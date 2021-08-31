@@ -36,13 +36,13 @@ subtitle = ""
   icon = "postgresql"
   icon_pack = "custom"
   name = "PostgreSQL"
-  description = "80%"
+  description = "75%"
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "30%"
+  name = "Macro photography"
+  description = "70%"
 
 [[feature]]
   icon = "r-project"
