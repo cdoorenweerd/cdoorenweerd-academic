@@ -7,7 +7,7 @@ authors:
 - Marko Mutanen
 author_notes: ""
 date: "2022-11-21T00:00:00Z"
-doi: "https://doi.org/10.1111/syen12579"
+doi: "https://doi.org/10.1111/syen.12579"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-02-01T00:00:00Z"
@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://resjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/syen.12579'
 url_code: ''
 url_dataset: ''
 url_poster: ''
