@@ -5,7 +5,7 @@ authors:
 - Kyhl Austin
 - Daniel Rubinoff
 author_notes: ""
-date: "2023-04-13-10T00:00:00Z"
+date: "2023-04-13T00:00:00Z"
 doi: "https://hdl.handle.net/10125/104862"
 
 # Schedule page publish date (NOT publication's date).
@@ -33,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://hdl.handle.net/10125/104862'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
